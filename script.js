@@ -193,5 +193,3 @@ function init() {
 }
 
 init();
-
-function doNothing() {}
